@@ -1,4 +1,4 @@
-import Validator from '../app';
+import Validator from '../nicknames';
 
 test('Корректное имя', () => {
   const description = new Validator('Name');
